@@ -115,4 +115,4 @@ async function fetchCategoryWiseProduct(category) {
   return earnings;
 }
 
-module.exports = adminRouter; 
+module.exports = adminRouter;
